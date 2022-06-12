@@ -1,5 +1,4 @@
 from sympy import *
-import sympy as sympy
 import matplotlib.pyplot as plt
 import numpy as np
 N=10
